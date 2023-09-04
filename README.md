@@ -1,4 +1,4 @@
-# pci_ad23
+s# pci_ad23
 Repo para almacenar los ejercicios y ejemplos de clase de "Pensamiento Computacional para Ingeniería". Semestre AD23
 
 # TC1028.411 Project from Juan Pablo Ramos.
@@ -59,10 +59,14 @@ To understand deeply the behind the scenes of the computations please refer to t
  	 - [https://www.health.harvard.edu/staying-healthy/calorie-counting-made-easy](https://www.health.harvard.edu/staying-healthy/calorie-counting-made-easy)
  	 - [https://www.hss.edu/conditions_burning-calories-with-exercise-calculating-estimated-energy-expenditure.asp](https://www.hss.edu/conditions_burning-calories-with-exercise-calculating-estimated-energy-expenditure.asp)
  	 - https://news.sanfordhealth.org/sports-medicine/weight-gain-performance/
- - Minor sources:
+- Minor sources:
  	 - [Google search results one](https://shorturl.at/shortener.phphttps://www.google.com/search?q=what+is+the+percentage+of+macronutrients+a+day%3F&rlz=1C1PASC_enMX1040MX1040&oq=what+is+the+percentage+of+macronutrients+a+day%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIKCAMQIRgWGB0YHjIKCAQQIRgWGB0YHtIBCDk4NTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
-         - [Google search results two](https://www.google.com/search?q=How+many+calories+should+I+increse+to+gain+one+or+two+pounds+&newwindow=1&sca_esv=562394728&rlz=1C1PASC_enMX1040MX1040&sxsrf=AB5stBiqJZtrX6Hc4NBLzD0JyUz0LCIN8Q%3A1693780147549&ei=swj1ZMeRIdjJkPIPurqv6A0&ved=0ahUKEwiHt5bgvo-BAxXYJEQIHTrdC90Q4dUDCBA&uact=5&oq=How+many+calories+should+I+increse+to+gain+one+or+two+pounds+&gs_lp=Egxnd3Mtd2l6LXNlcnAiPUhvdyBtYW55IGNhbG9yaWVzIHNob3VsZCBJIGluY3Jlc2UgdG8gZ2FpbiBvbmUgb3IgdHdvIHBvdW5kcyBIxKUBUM0KWPmhAXAFeAGQAQCYAbUBoAGwJaoBBTM1LjE0uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBRAhGKABwgIFECEYqwLCAggQIRgWGB4YHcICChAhGKABGMMEGArCAgQQIRgKwgIIECEYoAEYwwTCAggQABiJBRiiBMICBRAAGKIE4gMEGAAgQYgGAZAGCA&sclient=gws-wiz-serp)
-         - 
+ 	 - [Google search results two](https://www.google.com/search?q=How+many+calories+should+I+increse+to+gain+one+or+two+pounds+&newwindow=1&sca_esv=562394728&rlz=1C1PASC_enMX1040MX1040&sxsrf=AB5stBiqJZtrX6Hc4NBLzD0JyUz0LCIN8Q%3A1693780147549&ei=swj1ZMeRIdjJkPIPurqv6A0&ved=0ahUKEwiHt5bgvo-BAxXYJEQIHTrdC90Q4dUDCBA&uact=5&oq=How+many+calories+should+I+increse+to+gain+one+or+two+pounds+&gs_lp=Egxnd3Mtd2l6LXNlcnAiPUhvdyBtYW55IGNhbG9yaWVzIHNob3VsZCBJIGluY3Jlc2UgdG8gZ2FpbiBvbmUgb3IgdHdvIHBvdW5kcyBIxKUBUM0KWPmhAXAFeAGQAQCYAbUBoAGwJaoBBTM1LjE0uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBRAhGKABwgIFECEYqwLCAggQIRgWGB4YHcICChAhGKABGMMEGArCAgQQIRgKwgIIECEYoAEYwwTCAggQABiJBRiiBMICBRAAGKIE4gMEGAAgQYgGAZAGCA&sclient=gws-wiz-serp)
+ 	 - [Google search results three](https://www.google.com/search?q=Excercise+burn+calories+harvard&newwindow=1&sca_esv=562371431&sxsrf=AB5stBhdZ6dMHhTnKM4-kuVzy6_eBfo-rw%3A1693769891849&ei=o-D0ZPm5M9OQur8P_dOliAo&ved=0ahUKEwi5l_DFmI-BAxVTiO4BHf1pCaEQ4dUDCBA&uact=5&oq=Excercise+burn+calories+harvard&gs_lp=Egxnd3Mtd2l6LXNlcnAiH0V4Y2VyY2lzZSBidXJuIGNhbG9yaWVzIGhhcnZhcmQyBxAhGKABGAoyBxAhGKABGAoyCBAhGBYYHhgdSLAMUDBYtwpwAXgBkAEAmAGBAaABkgaqAQM2LjK4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIHEAAYDRiABMICBhAAGB4YDcICCBAAGB4YDRgPwgIGEAAYFhgewgIIEAAYFhgeGA_CAggQABgIGB4YDcICCBAAGIoFGIYD4gMEGAAgQYgGAZAGCA&sclient=gws-wiz-serp)
+ 	 - https://www.healthline.com/health/what-exercise-burns-the-most-calories
+ 	 - [Google search results four](https://www.google.com/search?q=if+i+want+to+lose+1+to+2+lbs+by+excercise%3F&rlz=1C1PASC_enMX1040MX1040&oq=if+i+want+to+lose+1+to+2+lbs+by+excercise%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCTEwNTgyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+ 	 - https://www.womenshealthmag.com/weight-loss/a39574131/how-to-lose-2-pounds-per-week/
+ 	 - [Google search results five](https://www.google.com/search?q=amr+nutritiom+stands+for&newwindow=1&sca_esv=562426022&rlz=1C1PASC_enMX1040MX1040&sxsrf=AB5stBhaa0_Nizy9vvfRMp7LJlOrYBhvhg%3A1693796748453&ei=jEn1ZLTAFf_NkPIPl5m96Aw&ved=0ahUKEwi0tofM_I-BAxX_JkQIHZdMD80Q4dUDCBA&uact=5&oq=amr+nutritiom+stands+for&gs_lp=Egxnd3Mtd2l6LXNlcnAiGGFtciBudXRyaXRpb20gc3RhbmRzIGZvcjIHECEYoAEYCjIFECEYqwIyCBAhGBYYHhgdMggQIRgWGB4YHTIIECEYFhgeGB0yCBAhGBYYHhgdMgoQIRgWGB4YDxgdSJQPUNACWOYNcAF4AZABAJgBjAGgAdYJqgEDMi45uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBhAAGBYYHsICCBAAGIoFGIYD4gMEGAAgQYgGAZAGCA&sclient=gws-wiz-serp)
  
 ### [](https://github.com/JuanPablo0947/pci_ad23#instrucciones)[](https://github.com/JuanPablo0947/pci_ad23#instrucciones)Instructions
 
