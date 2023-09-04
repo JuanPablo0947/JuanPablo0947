@@ -35,7 +35,7 @@ Without anything else, I hope you enjoy it professor and maybe it will be useful
 ### [](https://github.com/JuanPablo0947/pci_ad23#instrucciones)[](https://github.com/JuanPablo0947/pci_ad23#instrucciones)Interpretation of the program's statistics
 Net Emotional Value (or simply, NEV) is how you measure emotion.
 Calculating NEV is simple:
-![equation](https://latex.codecogs.com/svg.image?nev=total\positive\emotions-total\negative\emotions&space;)
+![equation](https://latex.codecogs.com/svg.image?nev=total\:positive\:emotions-total\:negative\:emotions&space;)
 
 NEV grading scale:
 $$
