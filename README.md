@@ -40,7 +40,9 @@ Calculating NEV is simple:
 
 NEV grading scale:
 
-![equation](https://latex.codecogs.com/svg.image?zero\:is\:neutral\\the\:greater\:from\:zero\:is\:better\\the\:lesser\:from\:zero\:is\:better)
+![equation](https://latex.codecogs.com/svg.image?zero\:is\:neutral)
+![equation](https://latex.codecogs.com/svg.image?the\:greater\:from\:zero\:is\:better)
+![equation](https://latex.codecogs.com/svg.image?the\:lesser\:from\:zero\:is\:more\:bad)
 
 Active metabolic rate (AMR) is how active you are.
 
