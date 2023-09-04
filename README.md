@@ -49,6 +49,7 @@ NEV grading scale:
 Active metabolic rate (AMR) is how active you are.
 
 AMR grading scale:
+
 ![equation](https://latex.codecogs.com/svg.image?This\:number\:ranges\:from\:1.2\:for\:being\:sedentary\\\:up\:to\:1.9\:for\:being\:very\:active.)
 
 To understand deeply the behind the scenes of the computations please refer to the following links which were the basis of the program's development calculations:
